@@ -4,3 +4,8 @@ body{
 h1,h2,h3,h4{
   color: blue;
 }
+section {
+  background: red;
+  font-size: 40px;
+  font-family: monospace;
+}
