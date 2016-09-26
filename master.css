@@ -9,3 +9,8 @@ section {
   font-size: 40px;
   font-family: monospace;
 }
+div{
+  background: red;
+  color: white;
+  font-family: cursive;
+}
